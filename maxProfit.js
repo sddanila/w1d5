@@ -11,4 +11,4 @@ function maxProfit(arr){
     return maxProfit;
 }
 
-console.log(maxProfit([45, 24, 35, 31, 40, 38, 11]));
+console.log(maxProfit([45, 24, 35, 31, 40, 38, 11, 100]));
